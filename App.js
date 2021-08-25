@@ -1,11 +1,8 @@
 import React, {useState, useEffect, useMemo, useSelector} from 'react';
 import {
   SafeAreaView,
-  ScrollView,
-  StatusBar,
   StyleSheet,
   Text,
-  useColorScheme,
   View,
   TextInput,
   FlatList,
